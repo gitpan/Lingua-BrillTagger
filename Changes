@@ -1,0 +1,6 @@
+Revision history for Perl extension Lingua::BrillTagger.
+
+0.01  Thu Jul 22 15:33:08 2004
+	- original version; created by h2xs 1.21 with options
+		-XA -n Lingua::BrillTagger
+
